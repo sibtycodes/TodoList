@@ -5,7 +5,8 @@ import Header from './components/Header';
 import Register from './components/Register';
 import Login from './components/Login'
 //Importing axios :
-import axios from axios;
+import axios_updated_version from axios;
+
 
 
 export default function FinalApp() {
